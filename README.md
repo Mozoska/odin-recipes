@@ -43,13 +43,13 @@ This project is part of the "Foundations" curriculum from [The Odin Project](htt
 
 ## Live Demo (Optional)
 
-You can view the live project [here](LINK_TO_YOUR_PUBLISHED_PAGE_IF_EXISTS).
+You can view the live project [here](https://mozoska.github.io/odin-recipes/).
 
 ---
 
 ## Author
 
-[Mozoska] - [Link to your GitHub profile](https://mozoska.github.io/odin-recipes/)
+[Mozoska]
 
 ---
 
