@@ -49,7 +49,7 @@ You can view the live project [here](LINK_TO_YOUR_PUBLISHED_PAGE_IF_EXISTS).
 
 ## Author
 
-[Mozoska] - [Link to your GitHub profile](https://github.com/your-username)
+[Mozoska] - [Link to your GitHub profile](https://mozoska.github.io/odin-recipes/)
 
 ---
 
